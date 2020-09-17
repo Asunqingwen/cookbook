@@ -1,2 +1,1 @@
-this is a line1!
-this is a line2!
+Hello
